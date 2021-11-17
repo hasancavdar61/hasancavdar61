@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning and working on Flutter. 
 - 💞️ I’m looking to collaborate on for be better than now.
 - 📫 This is my Mail hasancan_cavdar@hotmail.com I don't want a job, I want learn job.
+- @hasancavdaar for Instagram.
+- @hasancavdar61 for Twitter.
 
 <!---
 hasancavdar61/hasancavdar61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
