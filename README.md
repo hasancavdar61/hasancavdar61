@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasan çavdar (@hasancavdar61)
 - 👀 I’m interested in Mobile App Development.
-- 🌱 I’m currently learning and working on Flutter. 
+- 🌱 I’m currently learning and working on **Flutter** 
 - 💞️ I’m looking to collaborate on for be better than now.
 - 📫 This is my Mail hasancan_cavdar@hotmail.com I don't want a job, I want learn job.
 - @hasancavdaar for Instagram.
